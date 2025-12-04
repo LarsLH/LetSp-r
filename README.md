@@ -4,11 +4,11 @@ Når din extension er blevet udgivet, skal du tildele den til brugerne i Googles
 
   "sheetMode": "daily", "exam" eller "special".  Der er fx. blokkeret for udvalgte sider, som aftales mellem IT-vejleder og lærer.
   
-  "dailyCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebild opdaterede blokkeringsliste.
+  "dailyCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebilds opdaterede blokeringsliste.
   
-  "examCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebild opdaterede blokkeringsliste.
+  "examCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebilds opdaterede blokeringsliste.
 
-  "specialCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebild opdaterede blokkeringsliste.  
+  "specialCsvUrl": Adressen til offentlig CSV-fil med adresser. I eksemplet er Rebilds opdaterede blokeringsliste.  
 
   "blockedPageMode": "internal" eller "external". Hvis du vil bruge den indbyggede kan du bruge den eller lave din egen - det er "internal". Du kan også pege på en offentlig hjemmeside, det er "external"
 
