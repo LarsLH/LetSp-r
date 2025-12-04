@@ -1,0 +1,34 @@
+**User Privacy Policy for LetSpær**
+
+**Effective Date:** 10-04-2025
+**Owner/Developer:** Lars Lyngsøe Højberg/CBU Rebild Kommune
+
+This privacy policy describes how the LetSpær Chrome extension ("the Extension") collects, uses, and protects user data. This Extension is primarily designed for use in managed organizational environments (e.g., schools or businesses) where configuration is controlled by a system administrator.
+
+**1. Data Collection and Use**
+
+The Extension's core function is to facilitate website access blocking based on administrator-defined lists.
+
+* **Personally Identifiable Information (PII):** The Extension **does not collect, transmit, or store** any personally identifiable information (PII), such as names, email addresses, browsing history, or user login credentials.
+* **External Data Retrieval (Configuration Lists):** The Extension retrieves necessary website blocking lists from **publicly accessible** CSV files located at URLs configured by the organization's administrator (via Google Admin Console). These CSV files do not contain personal user data.
+* **URL Handling:** The Extension reads the current tab's URL to determine if it should be blocked. This URL processing is performed **entirely locally on the user's device**. **No user URLs or browsing activity are transmitted externally** by the Extension.
+
+**2. Data Storage**
+
+The Extension does not store personal or sensitive user data locally or remotely. Configuration settings (including the CSV URLs) are stored and managed by the organization's administrator through the Google Admin Console.
+
+**3. Data Sharing**
+
+The Extension does not share any user data, configuration data, or browsing activity with third parties.
+
+**4. Security**
+
+The Extension implements reasonable security measures to ensure local data handling integrity. However, no method of electronic storage or internet-based transmission is 100% secure.
+
+**5. Changes to This Privacy Policy**
+
+We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page: **[INDSÆT DET FULDE URL TIL DENNE PRIVATLIVSPOLITIK HER]**.
+
+**6. Contact Us**
+
+If you have any questions about this privacy policy, please contact us at: ilahn@rebild.dk.
