@@ -1,6 +1,6 @@
 LetSpær - Spærring af irrelevante sider i elevernes browser
 
-Når din extension er blevet udgivet, skal du tildele den til brugerne i Googles Administraion. Du skal angive JSON-config som kan ses i eksemplet (example-json-adminmodul.json), se muligheder nedenfor.
+Når din extension er blevet udgivet, skal du tildele den til brugerne i Googles Administraion. Du skal angive JSON-config.
 
   "sheetMode": "daily", "exam" eller "special".  Der er fx. blokeret for udvalgte sider, som aftales mellem IT-vejleder og lærer.
   
